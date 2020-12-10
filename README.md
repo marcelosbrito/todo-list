@@ -8,4 +8,4 @@ This is a simple ToDo List created with HTML, CSS and JavaScript.
 
 # How to access
 
-https://marcelosbrito.github.io/todo-list
+https://marcelosbrito.github.io/todo-list/
